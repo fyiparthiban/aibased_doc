@@ -1,0 +1,21 @@
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+langchain-huggingface
+sentence-transformers
+google-generativeai
+python-dotenv
+streamlit
+chromadb
+pypdf
+pymupdf
+unstructured
+pdf2image
+pdfminer.six
+unstructured-pytesseract
+unstructured-inference
+# Additional required for Groq and fixes
+langchain-groq
+tf-keras
+langchain-chroma
